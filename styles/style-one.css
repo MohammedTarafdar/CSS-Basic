@@ -1,0 +1,22 @@
+
+/* This tutorial for CSS-home to CSS-color */
+
+body{
+  background-color: #fbecec;
+}
+/* Example of Element seclector*/
+
+h1{
+  font-size: 65px;
+  color: Tomato;
+  text-align: center;
+}
+/* Example of CSS Class seclector*/
+.sec-one{
+  color: SlateBlue;
+}
+
+/*Example of CSS id selector*/
+#sec-two{
+  color: violet;;
+}
