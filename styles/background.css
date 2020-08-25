@@ -1,0 +1,53 @@
+body{
+  background-color: #fbecec;
+}
+
+#back-color{
+  height: 250px;
+  width: 100%;
+  background-color: #cffffe;
+}
+#back-img{
+  height: 250px;
+  width: 100%;
+  background-image: url("https://oregonflowers.com/wp-content/uploads/2019/03/Severn-05.jpg");
+}
+#back-reprat{
+  height: 250px;
+  background-image: url("https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__340.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.div-one{
+  background-color: #145374;
+  color: white;
+  opacity: .4;
+}
+
+.div-two{
+  background-color: #e11d74;
+  color: #2d4059;
+  opacity: .8;
+}
+
+.div-three{
+  background-color: #0f4c75;
+  color: white;
+  opacity: 1;
+}
+
+.bk-image{
+  font-size: 50px;
+  text-align: center;
+
+}
+
+.h1-img{
+  margin-top:0px;
+  padding-top: 100px;
+}
+.h1-img2{
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
