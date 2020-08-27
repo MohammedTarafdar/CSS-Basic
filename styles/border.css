@@ -2,13 +2,13 @@ body{
   background-color: #ebecf1;
 }
 
-p.dotted{
+.dotted{
   border-style: dotted;
   border-width: thick;
   border-color: red;
 }
 
-p.dashed{
+.dashed{
   border-style: dashed;
   border-width: medium;
   border-color: green;
